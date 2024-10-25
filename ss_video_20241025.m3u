@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0 type="video" channelId="-1", UFC BR SD
+http://178.162.225.174:2082/LIST-MIGIRATION-GVn2DIb6pF/2mKQ40xNmQ/1121
+#EXTINF:0 type="video" channelId="-1", UFC BR SD 2
+http://78.159.119.122:2082/Tourobox1-o9zlZKEuEA/QqKcJ4hsPU/1121
+#EXTINF:0 type="video" channelId="-1", UFC FULL HD 2
+http://srv.polkafood.pl:80/7gZBbc/QAQVed/177436
+#EXTINF:0 type="video" channelId="-1", UFC HD 1
+http://srv.polkafood.pl:80/Almada/j8pd3uc/83789
+#EXTINF:0 type="video" channelId="-1", UFC HD 2
+http://srv.polkafood.pl:80/153229/Aws0824/83789
+#EXTINF:0 type="video" channelId="-1", UFC ATUAL HD
+http://p2.hostinggonemoreso1.com:2082/Tourobox1-BFQHd0FyN4/H9KqY34mSZ/1121
